@@ -42,10 +42,6 @@ body {
   grid-row: span 6;
 }
 
-.medium {
-  grid-row: span 4;
-}
-
 .short {
   grid-row: span 3;
 }
